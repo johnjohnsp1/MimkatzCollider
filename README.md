@@ -1,0 +1,2 @@
+# MimkatzCollider
+Mimikatz HashClash
